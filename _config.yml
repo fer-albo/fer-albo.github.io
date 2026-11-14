@@ -1,0 +1,10 @@
+title: Fernanda Albo
+description: Welcome to my site
+url: "https://fer-albo.github.io"
+
+remote_theme: daviddarnes/garth
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
